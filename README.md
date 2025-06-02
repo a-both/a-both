@@ -4,8 +4,6 @@
 I'm a junior developer taking my first serious steps into the world of software development.  
 Currently, I am focusing on Python and web development fundamentals, while building projects to deepen my understanding of real-world programming challenges.
 
-I enjoy building small but practical applications and aim to expand my knowledge in both frontend and backend technologies.  
-My learning approach is centered on writing clean code, understanding the "why" behind the syntax, and building a strong foundation.
 
 ---
 
@@ -25,19 +23,9 @@ My learning approach is centered on writing clean code, understanding the "why" 
 - 🚗 [`autokolcsonzo_feladat`](https://github.com/a-both/autokolcsonzo_feladat):  
   Python script that simulates a car rental scenario, focusing on data handling and file operations.
 
----
-
-### 🎯 Goals:
-- Gain proficiency in Python (OOP, file I/O, error handling, etc.)
-- Learn JavaScript and basic frontend frameworks
-- Explore backend development with Flask
-- Improve version control practices using Git and GitHub
-- Build a portfolio with real-world-style mini projects
-
----
 
 ### 📫 Connect With Me:
-- (Coming soon – add your LinkedIn, portfolio, or email here)
+- https://www.linkedin.com/in/a-both/
 
 ---
 
